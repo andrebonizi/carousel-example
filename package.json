@@ -1,0 +1,8 @@
+{
+  "name": "carousel",
+  "version": "0.0.1",
+  "description": "responsive carousel example",
+  "main": "index.js",
+  "author": "André Bonizi",
+  "license": "MIT"
+}
